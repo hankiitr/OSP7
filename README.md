@@ -1,7 +1,7 @@
 # OSP7
 This is the repo for the csn232 OSP.
 
-#ParallelDE
+# ParallelDE
 One usually can run only one DE ( Desktop Environment at a time)
 To change the DE one has to install its required files and logout and then login again to change the DE for a different desktop experience.
 
